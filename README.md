@@ -40,7 +40,7 @@ To use the web interface version, follow these steps:
 
 ## Screenshots
 
-### Console App
+### GUi App
 
 ![Console App](img/img1.png)
 
