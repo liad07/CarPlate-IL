@@ -14,7 +14,23 @@ To use the console app version, follow these steps:
 4. Run the following command:
 
     ```bash
-    python console_app.py
+    python console.py
+    ```
+
+5. Enter the car color, model, and partial license plate number when prompted.
+6. The console app will display the matching license plate numbers.
+
+### GUI App
+
+To use the console app version, follow these steps:
+
+1. Clone the repository.
+2. Open a terminal or command prompt.
+3. Navigate to the project directory.
+4. Run the following command:
+
+    ```bash
+    python app.py
     ```
 
 5. Enter the car color, model, and partial license plate number when prompted.
